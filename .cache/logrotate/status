@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/adminsa/.cache/upstart/ssh-agent.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/indicator-sound.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/unity-panel-service.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/upstart-event-bridge.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/gpg-agent.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/unity-settings-daemon.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/window-stack-bridge.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/dbus.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/gnome-keyring-ssh.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/unity7.log" 2018-4-3-14:0:0
+"/home/adminsa/.cache/upstart/hud.log" 2018-4-3-14:0:0

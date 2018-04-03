@@ -1,0 +1,6 @@
+
+** (unity-settings-daemon:1562): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:1562): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User1000, uid: 0)
+
+(unity-settings-daemon:1562): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User1000, uid: 0)
