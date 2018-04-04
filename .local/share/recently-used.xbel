@@ -30,7 +30,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/adminsa/QACsuleman/Untitled%20Document%201" added="2018-04-03T20:59:47Z" modified="2018-04-03T20:59:47Z" visited="2018-04-03T20:59:47.758182Z">
+  <bookmark href="file:///home/adminsa/QACsuleman/Untitled%20Document%201" added="2018-04-03T20:59:47Z" modified="2018-04-04T16:34:08Z" visited="2018-04-03T20:59:47Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -39,6 +39,20 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-04-03T20:59:47Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-04-04T16:34:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminsa/Desktop/Linux/Untitled%20Document%201" added="2018-04-04T17:51:07Z" modified="2018-04-04T17:51:29Z" visited="2018-04-04T17:51:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-04-04T17:51:29Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>

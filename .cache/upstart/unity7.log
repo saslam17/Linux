@@ -131,3 +131,26 @@ WARN  2018-04-03 22:04:49 unity.shell.compiz unityshell.cpp:3241 Animation plugi
 1522789723784	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
 1522789843584	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
 1522789843584	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1522789962069	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1522789962070	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+WARN  2018-04-03 22:14:06 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-03 22:18:28 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 13:47:36 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Unable to fetch children: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.view' on object at path /org/ayatana/bamf/application/545253652
+
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:12:52 unity <unknown>:0 Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.application' on object at path /org/ayatana/bamf/application/545253652
+WARN  2018-04-04 15:13:54 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 17:34:38 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 17:36:06 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 17:38:05 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 17:38:53 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 17:39:49 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 17:41:15 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+WARN  2018-04-04 18:51:03 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.

@@ -1,0 +1,124 @@
+adminsa@adminsa:~$ oddEven() {
+> #!/bin/bash
+> echo "enter a number"
+> read x
+> if (( x % 2 == 0 ))
+> then echo "x is even"
+> else
+> echo "x is odd"
+> fi
+> }
+adminsa@adminsa:~$ oddEven
+enter a number
+2
+x is even
+adminsa@adminsa:~$ oddEven
+enter a number
+5
+x is odd
+adminsa@adminsa:~$ sumOddEven() {
+> #!/bin/bash
+> echo "Enter the first number"
+> read x
+> echo "Enter the second number"
+> read y
+> (( value = $x + $y ))
+> if (( value % 2 == 0 ))
+> then echo "value is even"
+> else
+> echo "value is odd"
+> fi
+> }
+adminsa@adminsa:~$ sumOddEven
+Enter the first number
+2
+Enter the second number
+2
+value is even
+adminsa@adminsa:~$ sumOddEven
+Enter the first number
+2
+Enter the second number
+3
+value is odd
+adminsa@adminsa:~$ loopbasic () {
+> #!/bin/bash
+> echo "Enter a number"
+> read number
+> echo "start the loop"
+> echo "-----"
+> looper=1
+> while [ $looper -le $number ] 
+> do
+> echo "${looper}"
+> ((looper++))
+> done
+> }
+adminsa@adminsa:~$ loopbasic
+Enter a number
+5
+start the loop
+-----
+1
+2
+3
+4
+5
+adminsa@adminsa:~$ $ echo $ [{1..10} *{1..10}] | xargs - n10 | column -t
+$: command not found
+xargs: -: No such file or directory
+adminsa@adminsa:~$  echo $ [{1..10} *{1..10}] | xargs - n10 | column -t
+xargs: -: No such file or directory
+adminsa@adminsa:~$ $echo $[{1..10} *{1..10}] | xargs -n10 | column -t
+1: command not found
+adminsa@adminsa:~$ $echo $[{1..10} * {1..10}] | xargs -n10 | column -t
+1: command not found
+adminsa@adminsa:~$ echo $[{1..10} * {1..10}] | xargs -n10 | column -t
+1   2   3   4   5   6   7   8   9   10
+2   4   6   8   10  12  14  16  18  20
+3   6   9   12  15  18  21  24  27  30
+4   8   12  16  20  24  28  32  36  40
+5   10  15  20  25  30  35  40  45  50
+6   12  18  24  30  36  42  48  54  60
+7   14  21  28  35  42  49  56  63  70
+8   16  24  32  40  48  56  64  72  80
+9   18  27  36  45  54  63  72  81  90
+10  20  30  40  50  60  70  80  90  100
+adminsa@adminsa:~$ ^C
+adminsa@adminsa:~$ ^C
+adminsa@adminsa:~$ 
+
+adminsa@adminsa:~$ array() {
+> #!/bin/bash
+> declare -a arrayNumber=(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15)
+> counter=1
+> for i in "${arrayNumber[@]}"
+> do
+> if (( i % 5 == 0 ))
+> then echo "buzz"
+> elif (( i % 3 == 0 ))
+> then echo "fizz"
+> else
+> echo "${i}"
+> ((counter++))
+> fi
+> done
+> }
+adminsa@adminsa:~$ array
+1
+2
+fizz
+4
+buzz
+fizz
+7
+8
+fizz
+buzz
+11
+fizz
+13
+14
+buzz
+
+
